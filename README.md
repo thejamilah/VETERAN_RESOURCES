@@ -8,14 +8,14 @@ As a Vet, family or community member, no matter what you may be experiencing, th
 [VETERAN RESOURCES VERSION 1.O](https://thejamilah.github.io/VETERANS/)
 
 ### ORIGINAL DEV TEAM
-* James Denton - [SgtBelly](https://github.com/SgtBelly) Author - Developer
-* Jamilah McWilliams- [TheJamilah](https://github.com/TheJamilah) Project Manager - Developer
+* James Denton - [SgtBelly](https://github.com/SgtBelly) Author
+* Jamilah McWilliams- [TheJamilah](https://github.com/TheJamilah) Project Manager
 * Michael Kermes - [BusdriverAK](https://github.com/BusdriverAK)
 * HR Hayden - [CodePuff](https://github.com/CodePuff)
 
 ## VERSION 2.0 DEV TEAM 
-* James Denton - [SgtBelly](https://github.com/SgtBelly) Author
-* Jamilah McWilliams- [TheJamilah](https://github.com/TheJamilah) Project Manager
+* James Denton - [SgtBelly](https://github.com/SgtBelly) Author - Developer
+* Jamilah McWilliams- [TheJamilah](https://github.com/TheJamilah) Project Manager - Developer
 
 ## PROJECT REVISION
 Jamilah and James will be working together on this project to bring it to the next level as a web and moblie app. 
